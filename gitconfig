@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = francesca_valsecchi@hotmail.com
+	name = Francesca Valsecchi
